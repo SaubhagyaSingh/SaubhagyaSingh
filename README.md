@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saubhagya Singh</h1>
 <h3 align="center">from MIT-WPU, Pune. I am passionate about software development and I am currently trying out different fields.</h3>
 
-- 🔭 I’m currently working on **Andes the Laundry Service App⚡**
+- 🔭 I’m currently working on **Andes the Laundry Service App**
 
 - 🌱 I’m currently learning **Flutter, DSA, and Data Science**
 
@@ -15,7 +15,7 @@
 
 - 🏆 Co-curricular Achievements: **I have qualified for Chess♟ nationals twice and have also won multiple district and state level chess championships**
 
-- 🏆 Co-curricular Achievements: **Visit my [portfolio site](https://saubhagyasingh.netlify.app/)**
+- ⚡To know more about me: **Visit my [portfolio site](https://saubhagyasingh.netlify.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
